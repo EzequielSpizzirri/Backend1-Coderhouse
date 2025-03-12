@@ -16,17 +16,6 @@
     - [api/products](#apiproducts)
     - [api/cart](#apicart)
 
-## Introducción📌
-
-**GuitarLA** (_Guitar Los Ángeles_) es un ecommerce de venta de guitarras, realizado enteramente con el stack MERN, como proyecto final para el curso de Programación Backend de Coderhouse, en su parte backend, y como parte del curso React - La Guía Completa de Juan Pablo de la Torre Valdez en Udemy.
-
-## Backend deployment URL📌
-
-https://guitarla-backend-cfsg.onrender.com/
-
-## Frontend deployment URL📌
-
-https://willowy-cobbler-ebd376.netlify.app/
 
 ## Características del proyecto Backend📌
 
