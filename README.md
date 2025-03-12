@@ -1,8 +1,4 @@
 **Tabla de contenidos**
-
-  - [Introducción](#introducción)
-  - [Backend URL](#backend-deployment-url)
-  - [Frontend URL](#frontend-deployment-url)
   - [Características del proyecto Backend](#características-del-proyecto-backend)
   - [Características del proyecto Frontend](#características-del-proyecto-frontend)
   - [Tecnologías utilizadas Backend](#tecnologías-utilizadas-backend)
