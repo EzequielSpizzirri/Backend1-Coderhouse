@@ -77,8 +77,8 @@ password: 123456
 
 ## Instalación📌
 ```
-git clone https://github.com/valessol/BE32190-Coderhouse.git
-cd BE32190-Coderhouse.git
+git clone https://github.com/EzequielSpizzirri/Backend1-Coderhouse.git
+cd Backend1-Coderhouse
 ```
 
 ### Levantar el backend:
